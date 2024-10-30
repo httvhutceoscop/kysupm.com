@@ -7,7 +7,7 @@ banner:
 
 ######################## call to action ###############################
 call_to_action:
-  enable: true
+  enable: false
   title: "Get the best jekyll templates"
   image: "/assets/images/jekyll-muscot.svg"
   description: "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."

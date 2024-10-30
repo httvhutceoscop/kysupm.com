@@ -2,8 +2,8 @@
 menu:
   # main menu
   main:
-    - { name: Home, url: "/" }
-    - { name: Contact, url: "contact.html" }
+    - { name: Trang chủ, url: "/" }
+    - { name: Liên hệ, url: "contact.html" }
     - { name: Tools, url: "tools.html" }
 
   ##### Dropdown menu ######
@@ -19,8 +19,8 @@ menu:
 
   # Footer menu
   footer:
-    - { name: Home, url: "/" }
-    - { name: Contact, url: "contact.html" }
+    - { name: Trang chủ, url: "/" }
+    - { name: Liên hệ, url: "contact.html" }
     - { name: Tools, url: "tools.html" }
 
 ######################### Default Parameters ###########################
@@ -28,7 +28,7 @@ menu:
 # logo
 logo: "/assets/images/logo.svg"
 # meta data
-author: "Themefisher"
+author: "Viet Nguyen Tien"
 description: "This is meta description"
 # google analitycs ID
 google_analitycs_id: "" # your id
