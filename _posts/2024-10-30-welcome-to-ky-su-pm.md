@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to KySu PM!"
 image : 
-author: "VietNT"
+author: "Viet Nguyen"
 date: 2024-08-08 10:11:00 +0700
 description : "Xác định lý do bắt đầu và mục tiêu để tiếp tục duy trì phát triển bản thân trong con đường sự nghiệp làm quản lý."
 tags: [Chuyện linh tinh]
