@@ -37,7 +37,10 @@ Trong đó là những kiến thức cơ bản để các bạn hiểu �
   - Sprint Retrospective
 - **Scrum Artifacts**
   - Product Backlog
+    - Product Goal
   - Sprint Backlog
+    - Sprint Goal
   - Increment
+    - Definite of Done
 
 [scrum-guide]: https://jekyllrb.com/docs/home
