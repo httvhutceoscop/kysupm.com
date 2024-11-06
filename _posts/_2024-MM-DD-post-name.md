@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to KySu PM!"
 image : "/assets/images/post/post-1.jpg"
-author: "VietNT"
+author: "Viet Nguyen"
 date: 2024-08-08 10:11:00 +0700
 description : "This is meta description"
 tags: [Chuyện linh tinh]

@@ -1,7 +1,7 @@
 ---
 title:  "Sự phức tạp của dự án là do đâu?"
 image : "/assets/images/post/du-an-phuc-tap.jpg"
-author: "VietNT"
+author: "Viet Nguyen"
 date: 2024-11-06 10:11:00 +0700
 description : "Quản lý dự án phức tạp là 1 thử thách lớn đối với các Project Manager, đặc biệt rất khó khăn nếu như họ không biết dự án phức tạp là do dâu."
 tags: [Chuyện nghề]
