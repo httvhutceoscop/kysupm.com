@@ -3,7 +3,7 @@ title:  "Tại sao Kickoff Meeting lại quan trọng? 4 bước triển khai 
 author: "Viet Nguyen"
 date: 2024-08-08 10:11:00 +0700
 description : "This is meta description"
-tags: [Chuyện linh tinh]
+tags: [Chuyện nghề]
 ---
 Kick off – nghĩa là sự bắt đầu. Với lĩnh vực quản lý dự án, buổi kick off meeting là buổi khởi động một dự án, có ý nghĩa quan trọng và có rất nhiều lợi ích.
 
