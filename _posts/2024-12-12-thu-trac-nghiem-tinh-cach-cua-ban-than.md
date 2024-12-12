@@ -45,4 +45,8 @@ Zô thôi, tui rảnh nên tui thử 2 loại trắc nghiệm **MBTI** và **DIS
 
 Xin mời các bạn xem kết quả của tui.
 
+### MBTI:
+Người đàm phán [ENTP-A](https://www.16personalities.com/vi/lo%E1%BA%A1i-t%C3%ADnh-c%C3%A1ch-entp)
+![Người đàm phán - ENTP-A](../assets/images/post/nguoi-dam-phan-ENTP-A.png)
+
 Các bạn nghĩ sao về kết quả trên, còn bạn đã thử làm trắc nghiệm chưa? Thấy có phù hợp với bản thân không? Hãy share để mình cùng thảo luận.
